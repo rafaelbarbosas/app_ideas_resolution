@@ -1,9 +1,10 @@
 import React from 'react';
+import MultipleList from './components/MultipleList'
 
 function App() {
   return (
     <div className="fluid container">
-      App
+      <MultipleList/>
     </div>
   );
 }
